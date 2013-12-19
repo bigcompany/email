@@ -3,7 +3,7 @@ var resource = require('resource'),
 
 email = resource.define('email', { 
   controller: require('./lib/'), 
-  schema: require('mschema-email')
+  schema: require('./email.mschema')
 }); 
 
 module['exports'] = email;

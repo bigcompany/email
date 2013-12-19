@@ -1,3 +1,3 @@
 # email
 
-for sending emails
+resource for sending emails
