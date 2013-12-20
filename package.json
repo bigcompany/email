@@ -10,8 +10,7 @@
   "main": "./index.js",
   "dependencies": {
     "resource": "0.5.x",
-    "sendgrid": "0.4.4",
-    "mschema-email": "*"
+    "sendgrid": "0.4.4"
   },
   "license": "MIT",
   "author": "Marak Squires <support@marak.com>"
